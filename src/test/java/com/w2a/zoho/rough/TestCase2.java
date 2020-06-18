@@ -23,6 +23,7 @@ public class TestCase2  extends BaseTest{
 		ZohoHomePage home = new ZohoHomePage();
 		/*ZohoLoginPage login = home.gotoLogin();
 		login.doLogin("trainer@way2automation.com", "Selenium@1234");
+		//Just to check pritam in github
 	*/
 		quit();
 	}
